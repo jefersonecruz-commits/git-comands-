@@ -1,0 +1,4 @@
+ -criar repositorio no gitHub
+ -criar pasta no computador
+ -iniciar o git com o comando "git init"
+ -adicionar mudanças no pacote "git add ." (. significa todos os arquivos)
