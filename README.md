@@ -10,3 +10,8 @@
 
   #enviar pacotes ao gitHub
   -git push
+
+  #receber pacotes do github
+  -git pull 
+
+  
